@@ -1,0 +1,74 @@
+/* Custom Styles */
+
+/* Dashboard cards */
+.border-left-primary {
+    border-left: .25rem solid #4e73df!important;
+}
+
+.border-left-success {
+    border-left: .25rem solid #1cc88a!important;
+}
+
+.border-left-info {
+    border-left: .25rem solid #36b9cc!important;
+}
+
+.border-left-warning {
+    border-left: .25rem solid #f6c23e!important;
+}
+
+.border-left-danger {
+    border-left: .25rem solid #e74a3b!important;
+}
+
+.card-header {
+    background-color: #f8f9fc;
+}
+
+/* Sidebar */
+.sidebar {
+    min-height: 100vh;
+}
+
+/* Utilities */
+.text-gray-300 {
+    color: #dddfeb!important;
+}
+
+.text-gray-800 {
+    color: #5a5c69!important;
+}
+
+/* File list */
+.file-list .list-group-item {
+    padding: 0.5rem 1rem;
+}
+
+/* Dropzone custom styles */
+.dropzone {
+    border: 2px dashed #cccccc;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.dropzone:hover {
+    border-color: #007bff;
+}
+
+.dropzone .dz-message {
+    margin: 2em 0;
+}
+
+/* Status badges */
+.badge {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.5rem;
+}
+
+/* Order details page */
+.notes-content {
+    min-height: 100px;
+    white-space: pre-line;
+}
